@@ -10,7 +10,7 @@ export const Header = () => {
             href="/"
             className="-ml-6 flex h-[--header-row-height] items-center px-6 text-xl"
           >
-             <span className="sr-only">Back to homepage</span>
+            <span className="sr-only">Back to homepage</span>
           </a>
         </Container>
       </header>
